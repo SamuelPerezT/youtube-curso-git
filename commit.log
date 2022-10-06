@@ -1,0 +1,118 @@
+commit 981e662d8f789786e9e6da5ca1473227344eb600
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:58:16 2022 -0500
+
+    Agregando dos párrafos
+
+commit 42d1b924e0c81a680146547dc819ef11eb1eee86
+Merge: 353a11a 26e76c5
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:55:09 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 353a11a5169bbc2043b5a71133f3ae1b7fb4514f
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:25:28 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 26e76c56a3859634f9905d4a2b40afbb99bd308a
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:25:28 2022 -0500
+
+    Agregando las estaciones del año
+
+commit c7594d1f896bdbf0c8006bce1da41e368e102551
+Merge: 1e2ef8a f172346
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:19:26 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit f172346c263b8d7417c580046c3e3de785845df3
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 18:11:14 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 1e2ef8a4c7d194f8834c8c9787092f7ee6811663
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:57:01 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 7db4f2f490a9156c084f727cf465601233d6b7c6
+Merge: cb77dda 5676011
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:40:07 2022 -0500
+
+    Merge branch 'js'
+
+commit cb77dda637276accf3c1ccf59a32d6f5c7c0c47d
+Merge: 04967ac 154b21c
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:39:52 2022 -0500
+
+    Merge branch 'css'
+
+commit 04967acbb3ec63e84e987fdb93df0a0ab4a9fdb3
+Merge: c734e66 71b9776
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:37:37 2022 -0500
+
+    Merge branch 'html'
+
+commit c734e668417d6c6729de9ff2bba1faed7a75613a
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:35:49 2022 -0500
+
+    Agregando el apellido completo en el README.md
+
+commit 5676011b6fe4433210b132504c001b502cc4a0d0
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:28:22 2022 -0500
+
+    Creando index.js
+
+commit 154b21c0ee800fd82d382db341b14098e8a13bfb
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:15:29 2022 -0500
+
+    Creando style.css
+
+commit 71b97762043b303b4b1a4df650fd488f038c7033
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Wed Oct 5 17:06:56 2022 -0500
+
+    Creando archivo index.html
+
+commit 6aaad3ab3f1feec28e24c3ede0d4291bd62d190a
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Tue Oct 4 20:59:20 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 71aa89c71c5d5b117b7e6670567d25b407166875
+Author: SaMeX45 <44407234+SaMeX45@users.noreply.github.com>
+Date:   Tue Oct 4 20:00:52 2022 -0500
+
+    Creando licencia del repositorio
+
+commit a547d7b58b6ea894f4d1d56dc5c6c6fcb9b22146
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Tue Oct 4 19:47:56 2022 -0500
+
+    Agregando más contenido al README.md
+
+commit 34d920e63015a3bc0cfcdb3e5e539e6adf6259f8
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Tue Oct 4 19:35:13 2022 -0500
+
+    Agregando contenido inicial al README.md
+
+commit 226b09e4b6a621f92c0cafd3d566eadf5e26402c
+Author: Samuel Perez Torres <1160733@alumno.um.edu.mx>
+Date:   Tue Oct 4 19:28:09 2022 -0500
+
+    Primer commit 😀
